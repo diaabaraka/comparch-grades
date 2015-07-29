@@ -27,7 +27,7 @@
 | 24 | Shady Raafat Farghal Sayed Elbaroudy          |      |
 | 25 | Sherif Mohye Mahmoud Hafez Abdelnaby          |      |
 | 26 | Shaymaa Mousa Abdellateef Hafez               |      |
-| 27 | Dyaa Ibrahim Saad Ahmed Abobaraka             |      |
+| 27 | Dyaa Ibrahim Saad Ahmed Abobaraka             | Yes  |
 | 28 | Tarek Ashraf Ahmad Ameen Rezq                 |      |
 | 29 | Tarek Khaled Ismail Eltalawy                  |      |
 | 30 | Tarek Khaled Ragab Essawy Elsayed             |      |
